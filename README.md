@@ -1,0 +1,1 @@
+This is a windows form application which will use adb commands to access the call logs and contacts and messages of an android device and display in app. It will also generate pdf reports of the same in application which can be downloaded.
